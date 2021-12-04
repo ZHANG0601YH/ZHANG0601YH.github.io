@@ -4,6 +4,8 @@
 
 #### Graduate - Data Science
 Nice to meet you. Waiting for admissions.
+        
+:construction:    
 
 #### On Reason & Passion (Excerpts)                                      
 Kahlil Gibran
@@ -23,8 +25,9 @@ I would have you consider your judgment and your appetite even as you would two 
 
 Surely you would not honour one guest above the other; for he who is more mindful of one loses the love and the faith of both.
 
-```
-
+```      
+                                  
+:beers:
 Contact me at yihanzhang898@gmail.com
-
+:beers:
 
